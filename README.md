@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 # Video to MP3 Batch Converter
 
 This Python program batch converts video files (e.g., MP4, MKV, AVI, MOV, WEBM, FLV) to MP3 audio files, preserving as much metadata as possible. It is designed for easy use and automation.
@@ -61,5 +65,8 @@ MIT
 
 ---
 *Created by MasstarVT*
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
